@@ -16,3 +16,5 @@ A real-time collaboration tool is a powerful application that enables multiple u
 
 # OUTPUT :
 
+<img width="1910" height="960" alt="Image" src="https://github.com/user-attachments/assets/7a5d48ca-89b2-455f-8a69-c513ef8b3252" />
+<img width="1911" height="1015" alt="Image" src="https://github.com/user-attachments/assets/85199190-9349-4270-bbaa-1708195a3163" />
